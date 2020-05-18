@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589806859 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\acostappprog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebooks.h"
+
+1589806889 c:\users\nahue\onedrive\escritorio\proyecto nuevo\acostappprog1\notebooks.h
+
+1589806913 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\acostappprog1\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebooks.h"
+
